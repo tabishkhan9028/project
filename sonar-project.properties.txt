@@ -1,5 +1,5 @@
 sonar.verbose=true
-sonar.organization=valaxy03-key
+sonar.organization=valaxy03
 sonar.projectKey=valaxy03-key_twittertrend
 sonar.projectName=twittertrend
 sonar.language=java
