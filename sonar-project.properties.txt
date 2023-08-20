@@ -1,7 +1,7 @@
 sonar.verbose=true
-sonar.organization=cloudage
-sonar.projectKey=cloudage-key_cloudage
-sonar.projectName=cloudage
+sonar.organization=valaxy001
+sonar.projectKey=valaxy001_twittertrend
+sonar.projectName=twittertrend
 sonar.language=java
 sonar.sourceEncoding=UTF-8
 sonar.sources=.
